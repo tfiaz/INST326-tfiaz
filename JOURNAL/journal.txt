@@ -3,6 +3,15 @@ Tayyab Fiaz
 tfiaz@umd.edu
 Section 0201
 
+Week 1
+
+This week I used AI (ChatGPT 5.0 to be exact) while working on the exercises to give me 
+a refresher on concepts that  I wasn't familar with and ones that I have not used in a while.
+I especially used it while completing the string handling portion of the exercises. 
+I didn't know how .find() and .strip() worked because I didn't use it in any of my other Python
+courses. I didn't use AI to give me any code to complete the assignment nor did I use AI 
+to debug any of my code for the exercises.
+
 Week 2
 
 This week I used AI to assist me on the exercises. I used AI to give me examples of the topics we
