@@ -6,7 +6,7 @@ Section 0201
 Week 1
 
 This week I used AI (ChatGPT 5.0 to be exact) while working on the exercises to give me 
-a refresher on concepts that  I wasn't familar with and ones that I have not used in a while.
+a refresher on concepts that I wasn't familar with and ones that I have not used in a while.
 I especially used it while completing the string handling portion of the exercises. 
 I didn't know how .find() and .strip() worked because I didn't use it in any of my other Python
 courses. I didn't use AI to give me any code to complete the assignment nor did I use AI 
@@ -19,3 +19,14 @@ were discussing on the examples that I either forgot and needed a refresher or j
 know in general. I also used AI this week for my own personal initiatives, especially when it 
 came to revising my resume for the upcoming career fairs. I found it very intriging and gave 
 me valuable suggestions which I incorporated into my resume.
+
+Week 3
+
+This week I used AI (ChatGPT 5.0) while working on the exercise problems. 
+Usually, I have a hard time writing functions in Python, especially setting up the parameters 
+when creating a function at first. Using ChatGPT made it easier for me to see how the structure 
+should look, and then I could tweak it myself once I understood the flow. It helped me recognize 
+patterns in how functions are written, which gave me more confidence when starting from scratch. 
+I also noticed that I learn better when I can compare my own attempt with the AI’s example
+because I can spot what I was missing. It made the practice feel less frustrating 
+and more like a learning opportunity instead of just trial and error.
