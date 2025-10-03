@@ -30,3 +30,17 @@ patterns in how functions are written, which gave me more confidence when starti
 I also noticed that I learn better when I can compare my own attempt with the AI’s example
 because I can spot what I was missing. It made the practice feel less frustrating 
 and more like a learning opportunity instead of just trial and error.
+
+Week 4
+
+This week I used AI (ChatGPT & Google Gemini) while working on the exercise problems, espeicially
+decoding some of the code I was writing. Like for exercise #8, my code had a logic error where
+the function set_open_hours wasn't actually updating the open note hour variable. I didn't know why the code
+wasn't working so I asked chatGPT and it debugged the code for me and changed the logic and made the code working. For
+exercise #10, while I was running my block of code, I kept getting an assertion error on the code. I checked my code and it was 
+logically correct and I tweaked it, where I wrote the code in a more inefficient manor, keeping the same logic and it still wasn't 
+working. I asked ChatGPT and Gemini and said the code was fine and was not the problem but it was the sample output provided to 
+us that was the issue and was causing assertion error. I changed the third parameter "assert r.add_score()" from 3 to 2 and it made
+my code work. For exercise 19, I didn't know how to go about solving the code, especially what to write in the function blocks.
+I asked ChatGPT what to write, and it gave me the code and it worked flawlessly. Suprisingly, this week, I didn't need to use 
+much AI as I had to for the other weeks. 
