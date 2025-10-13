@@ -44,3 +44,12 @@ us that was the issue and was causing assertion error. I changed the third param
 my code work. For exercise 19, I didn't know how to go about solving the code, especially what to write in the function blocks.
 I asked ChatGPT what to write, and it gave me the code and it worked flawlessly. Suprisingly, this week, I didn't need to use 
 much AI as I had to for the other weeks. 
+
+WEEK 5
+
+This week I used AI (ChatGPT) mainly for my library system project to help me write and debug the code.
+At first, my program had indentation and logic errors that were causing the classes not to work properly. 
+ChatGPT helped me fix those issues by properly indenting the __init__ methods and showing me how to organize each class.
+I also used AI to create new functions for my project, including compute_overdue_fine, checkout_item, and renew_item. 
+When I wasn’t sure how to handle overdue items or renewals, ChatGPT explained how to use timedelta from the datetime module 
+and how to set limits on renewals.
