@@ -58,4 +58,11 @@ WEEK 6
 
 WEEK 7
 
+This week, I used ChatGPT to assist me with coding exercises focused on exception handling and basic unit testing. 
+The AI helped me write and refine Python functions like validate_isbn, parse_copies, and assert_not_overdue, ensuring they 
+followed Week 7’s requirements without using advanced concepts. It also guided me in applying try, except, else, and finally 
+correctly while maintaining clear and readable code. I used it to check my understanding of how and when to raise custom 
+exceptions and how to structure simple unittest cases. Overall, ChatGPT acted as a helpful coding partner that sped up my 
+work while allowing me to focus on understanding the logic behind error handling and testing.
+
 WEEK 8
