@@ -53,3 +53,7 @@ ChatGPT helped me fix those issues by properly indenting the __init__ methods an
 I also used AI to create new functions for my project, including compute_overdue_fine, checkout_item, and renew_item. 
 When I wasn’t sure how to handle overdue items or renewals, ChatGPT explained how to use timedelta from the datetime module 
 and how to set limits on renewals.
+
+WEEK 6
+
+WEEK 7
