@@ -57,3 +57,5 @@ and how to set limits on renewals.
 WEEK 6
 
 WEEK 7
+
+WEEK 8
