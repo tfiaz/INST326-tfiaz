@@ -66,3 +66,10 @@ exceptions and how to structure simple unittest cases. Overall, ChatGPT acted as
 work while allowing me to focus on understanding the logic behind error handling and testing.
 
 WEEK 8
+
+This week I used AI (ChatGPT) to help me develop and debug my library system project. 
+I had several issues with subclassing, method overriding, and logic errors that caused my classes not to function correctly. 
+ChatGPT guided me in fixing these problems by organizing my class hierarchy, using super() correctly, and showing how to implement 
+polymorphism without relying on if statements. It also helped me create new functions like late_fee, effective_loan_period, and 
+sort_books_for_display, and explained how to use composition by adding a Notifier class to handle messages. 
+Overall, AI made it easier to understand inheritance, polymorphism, and cleaner code design in my project.
