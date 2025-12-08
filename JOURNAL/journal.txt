@@ -74,6 +74,11 @@ polymorphism without relying on if statements. It also helped me create new func
 sort_books_for_display, and explained how to use composition by adding a Notifier class to handle messages. 
 Overall, AI made it easier to understand inheritance, polymorphism, and cleaner code design in my project.
 
-WEEK 9
+WEEK 12
 
-WEEK 10
+This week, I used AI (ChatGPT 5.1) to apply for internships. I would find internship postings for data related positions and use AI to break down
+overall fit of the position based on my resume, shaped my cover letter based on my resume, calculate applicant tracking score (ATS)
+based on my resume, and the likelihood of a recruiter looking at my resume and scheduling an interview. I also used AI to help me
+structure emails to recruiters and company workers that I would find for a specific role at their company and this resulted in a few 
+responses as well. I also used AI to help me structure my draft for another class without using any of the information the AI gave. 
+It gave me a great structure for my draft and I incorporated part, but not all, to my project draft. 
