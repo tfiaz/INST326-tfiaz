@@ -82,3 +82,16 @@ based on my resume, and the likelihood of a recruiter looking at my resume and s
 structure emails to recruiters and company workers that I would find for a specific role at their company and this resulted in a few 
 responses as well. I also used AI to help me structure my draft for another class without using any of the information the AI gave. 
 It gave me a great structure for my draft and I incorporated part, but not all, to my project draft. 
+
+WEEK 13
+
+I used AI to help structure and refine SQL queries for a project of mine. The AI helped translate research questions
+(for example, diabetes rates by age, income, and health indicators) into clear SQL logic and aggregation queries, 
+which saved time and reduced errors. I used AI to analyze internship job descriptions and identify key skills and responsibilities 
+to highlight on my resume. This helped me tailor my resume language to better match roles in operations,
+analytics, and finance-related internships. I used AI while working on Project 4 to support system integration, 
+data persistence, and testing. AI helped generate and refine unit, integration, and system tests using Python’s 
+unittest framework, particularly for validating end-to-end workflows and save/load and import/export functionality. 
+I also used AI to assist with file I/O patterns, error handling, and refactoring during integration to ensure components worked 
+together correctly. Additionally, AI was used to help organize documentation (README, testing strategy, and architecture overview) 
+and prepare points for the project video explaining how we verified the system works.
