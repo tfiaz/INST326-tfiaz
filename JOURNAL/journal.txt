@@ -56,6 +56,12 @@ and how to set limits on renewals.
 
 WEEK 6
 
+This week I used AI (ChatGPT) to help me work through the Week 6 exercises, which focused on classes, object creation, 
+nd basic object-oriented design. I ran into issues with initializing class attributes correctly and understanding how methods 
+interact with instance variables. ChatGPT helped clarify how constructors work, how to properly use self, and how to structure 
+methods so they return expected outputs. It also helped me debug small logic errors that were causing incorrect results. 
+Overall, AI made it easier to understand the fundamentals of classes and improved my confidence working with object-oriented code.
+
 WEEK 7
 
 This week, I used ChatGPT to assist me with coding exercises focused on exception handling and basic unit testing. 
@@ -72,7 +78,25 @@ I had several issues with subclassing, method overriding, and logic errors that 
 ChatGPT guided me in fixing these problems by organizing my class hierarchy, using super() correctly, and showing how to implement 
 polymorphism without relying on if statements. It also helped me create new functions like late_fee, effective_loan_period, and 
 sort_books_for_display, and explained how to use composition by adding a Notifier class to handle messages. 
-Overall, AI made it easier to understand inheritance, polymorphism, and cleaner code design in my project.
+Overall, AI made it easier to understand inheritance, polymorphism, and cleaner code design in my project. 
+
+WEEK 9
+
+This week I used AI (ChatGPT) to help me develop and debug my library system project. I had several issues with subclassing, 
+method overriding, and logic errors that caused my classes not to function correctly. ChatGPT guided me in fixing these 
+problems by organizing my class hierarchy, using super() correctly, and showing how to implement polymorphism without 
+relying on if statements. It also helped me create new functions like late_fee, effective_loan_period, and sort_books_for_display, 
+and explained how to use composition by adding a Notifier class to handle messages. Overall, AI made it easier to understand 
+inheritance, polymorphism, and cleaner code design in my project.
+
+WEEK 10
+
+This week I used AI (ChatGPT) to assist with the Week 10 exercises, which involved more advanced object-oriented concepts and 
+applying them in practice. I needed help understanding how to structure classes more efficiently and how different components 
+of a program should interact with each other. ChatGPT helped me debug errors, improve method logic, and write cleaner, more 
+readable code. It also reinforced concepts like abstraction and code reuse, which helped me better understand how larger programs 
+are organized. Overall, AI helped streamline my problem-solving process and strengthened my understanding of object-oriented 
+programming.
 
 WEEK 12
 
